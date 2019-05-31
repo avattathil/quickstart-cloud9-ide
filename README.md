@@ -10,10 +10,11 @@ The Quick Start offers two deployment options:
 - Deploying AWS Cloud9 into a new virtual private cloud (VPC) on AWS
 - Deploying AWS Cloud9 into an existing VPC on AWS
 
-![Quick Start architecture for AWS Cloud9 IDE](https://d0.awsstatic.com/partner-network/QuickStart/datasheets/aws-cloud9-on-aws-architecture-diagram.png)
+![Quick Start architecture for AWS Cloud9 IDE](https://d1.awsstatic.com/partner-network/QuickStart/datasheets/aws-cloud9-on-aws-architecture-diagram.70baec365c922fbc2b3fe9511daf29bb182b2ca9.png)
 
 For architectural details, best practices, step-by-step instructions, and customization options, see the 
 [deployment guide](https://fwd.aws/kApMK).
 
 To post feedback, submit feature ideas, or report bugs, use the **Issues** section of this GitHub repo.
 If you'd like to submit code for this Quick Start, please review the [AWS Quick Start Contributor's Kit](https://aws-quickstart.github.io/).
+
